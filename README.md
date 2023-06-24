@@ -10,4 +10,4 @@ Intution:<br>
 <br>
 <br>
 Link to dataset used: https://www-personal.umich.edu/~jlawler/wordlist.html <br>
-To know more about Trie: https://www-personal.umich.edu/~jlawler/wordlist.html
+To know more about Trie: https://www.geeksforgeeks.org/trie-insert-and-search/
