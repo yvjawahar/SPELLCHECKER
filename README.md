@@ -8,5 +8,5 @@ Trie Data Structure
 
 3)Server-side Spell Checking: The server receives the AJAX request at the /check route. It retrieves the word from the request parameters and performs a search in the Trie using the search method. If the word is found in the Trie, it responds with the message "Valid word"; otherwise, it responds with "Invalid word".
 
-Link to dataset used: https://www-personal.umich.edu/~jlawler/wordlist.html
+Link to dataset used: https://www-personal.umich.edu/~jlawler/wordlist.html <br>
 To know more about Trie: https://www-personal.umich.edu/~jlawler/wordlist.html
